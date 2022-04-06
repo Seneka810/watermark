@@ -12,7 +12,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
 
-@Getter
 @Slf4j
 @Service
 public class WatermarkService {
